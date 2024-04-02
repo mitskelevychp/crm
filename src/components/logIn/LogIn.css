@@ -1,0 +1,21 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 20px;
+}
+
+.inputAttention {
+  border-color: red;
+}
+
+.textAttention {
+  text-align: center;
+  padding-top: 20px;
+  color: red;
+}
+
+.input {
+  color: inherit;
+}

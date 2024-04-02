@@ -1,0 +1,28 @@
+.headline {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  border: solid 5px #00b2d0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  @media screen and (min-width: 425px) {
+    width: 300px;
+    height: 300px;
+  }
+  @media screen and (min-width: 900px) {
+    width: 300px;
+    height: 300px;
+  }
+}
+
+@keyframes waveAnimation {
+  from {
+    background-position: 200% 0;
+  }
+  to {
+    background-position: -200% 0;
+  }
+}
