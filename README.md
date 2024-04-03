@@ -2,9 +2,9 @@
 
 <h2>About</h2>
 
-<p>Копія комерційного проєкту, над яким продовжую працювати. Задача - створити для замовника застосунок (CRM) з базовим функціоналом</p>
+<p>A copy of a commercial project that I continue to work on. The task is to create an application (CRM) with basic functionality for the client.</p>
 
-<p>В подальшому функціональність застосунку зростатиме. To conclude, I plan to create a real-time communication chat using socket.io.</p>
+<p>In the future, the application's functionality will grow. To conclude, I plan to create a real-time communication chat using socket.io.</p>
 
 <p><b>Site</b>: <a href="https://crm-portfolio-project.web.app" target="_blank">https://crm-portfolio-project.web.app</a></p>
 
