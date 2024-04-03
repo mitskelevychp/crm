@@ -41,7 +41,6 @@ const Header: React.FC<HeaderType> = ({ isLoggedIn, doLogOut }) => {
               fontSize: "18px",
             }}
           >
-            Alite Recruiting
             <Typography
               component="span"
               sx={{

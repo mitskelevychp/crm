@@ -6,7 +6,7 @@ const Title: React.FC = () => {
     <div className="header__title-wrapper">
       <Link to="/">
         <p className="header__title">
-          Alite Recruiting <span>CRM</span>
+          <span>CRM</span>
         </p>
       </Link>
     </div>

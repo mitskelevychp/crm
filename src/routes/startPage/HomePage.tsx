@@ -13,7 +13,7 @@ const HomePage: React.FC<HomePageType> = ({ isLoggedIn }) => {
   return (
     <>
       {/* <header></header> */}
-      <DocumentTitle title="Alite Recruiting CRM" />
+      <DocumentTitle title="CRM" />
       <Container
         sx={{
           display: "flex",
@@ -41,7 +41,7 @@ const HomePage: React.FC<HomePageType> = ({ isLoggedIn }) => {
               display: "inline",
             }}
           >
-            Alite Recruiting
+            Basic
           </Typography>
           <Typography
             component="p"
