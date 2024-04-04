@@ -17,6 +17,7 @@ vite.config.ts
 
 
 node_modules
+/.firebase
 dist
 dist-ssr
 *.local

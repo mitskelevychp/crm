@@ -87,6 +87,30 @@ const LogIn: React.FC = () => {
         alignItems: "center",
       }}
     >
+      {/* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! for portfolio !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */}
+      <div
+        style={{
+          border: "solid 1px black",
+          padding: "20px",
+          margin: "0px 0px 40px",
+        }}
+      >
+        <p>
+          <b>Доступ для менеджера:</b>
+        </p>
+        <p>login: justpetro</p>
+        <p>password: ghT124dr</p>
+        <p
+          style={{
+            paddingTop: "10px",
+          }}
+        >
+          <b>Доступ для адміністратора:</b>
+          <p>login: admin0</p>
+          <p>password: ghT124dr</p>
+        </p>
+      </div>
+      {/* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! for portfolio !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */}
       <p>Log-In</p>
       <Formik
         initialValues={{ login: "", password: "" }}
